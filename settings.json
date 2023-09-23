@@ -1,6 +1,7 @@
 {
     "name": "Portfolio",
     "scripts": {
+      "start": "run",
       "build": "babel src -d lib",
       "test": "jest"
     }
