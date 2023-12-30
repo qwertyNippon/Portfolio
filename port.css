@@ -92,6 +92,24 @@ div h1 span {
     overflow: hidden;
 }
 
+.contact button{
+    display: flex;
+    align-items: center;
+    padding: 5px 30px;
+    font-size: 16px;
+    color: #fff;
+    gap: 10px;
+    border: none;
+    border-radius: 50px;
+    /* background: linear-gradient(270deg, #ff994f, #fa6d86); */
+    cursor: pointer;
+}
+
+.contact button a{
+    text-decoration: none;
+    
+}
+
 /* .test1{
     display: flex;
     flex-direction: column;
