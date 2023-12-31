@@ -142,3 +142,11 @@ div h1 span {
     }
 
   }
+
+
+
+@media (max-width:800px) {
+    .phone{
+        max-width: 80vw; 
+    }
+}
