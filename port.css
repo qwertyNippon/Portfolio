@@ -50,6 +50,7 @@ div h1 span {
 .contain2{
     display: flex;
     margin-top: 5rem;
+    margin-left: -2rem;
     margin-bottom: 5rem;
     padding-bottom: 25rem;
 }
