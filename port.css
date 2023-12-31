@@ -9,6 +9,7 @@ form.form-example {
 }
 
 .makeCenter{
+    justify-content: center;
     width: 100vw;
 }
 .firstMes {
