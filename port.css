@@ -8,6 +8,9 @@ form.form-example {
     display: table-row;
 }
 
+.makeCenter{
+    width: 80vw;
+}
 .firstMes {
     display: flex;
     flex-direction: column;
