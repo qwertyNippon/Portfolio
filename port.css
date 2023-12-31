@@ -174,9 +174,9 @@ div h1 span {
     .firstMes{
         display: flex;
         flex-direction: column;
-        max-width: 90vw; 
-        /* align-items: center; */
+        max-width: 80vw; 
         padding: 25rem 0rem 0rem 0rem;
         text-align: center;
+        justify-content: center;
     }
 }
