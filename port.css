@@ -175,8 +175,7 @@ div h1 span {
         display: flex;
         flex-direction: column;
         max-width: 90vw; 
-        align-items: center;
-        /* justify-content: center; */
+        /* align-items: center; */
         padding: 25rem 0rem 0rem 0rem;
         text-align: center;
     }
