@@ -80,6 +80,12 @@ div h1 span {
     rotate: 0 0 1 -90deg;
 }
 
+@media (max-width:800px) {
+    .plane{
+        display:none; 
+    }
+}
+
 .hidden{
     opacity: 0;
 }
