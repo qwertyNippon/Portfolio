@@ -9,6 +9,9 @@ form.form-example {
 }
 
 .firstMes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding-top: 25rem;
     padding-bottom: 30rem;
     padding-left: 15rem;
