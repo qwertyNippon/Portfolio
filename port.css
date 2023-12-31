@@ -12,8 +12,6 @@ form.form-example {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    max-width: 100vw;
 }
 .firstMes {
     display: flex;
@@ -21,8 +19,6 @@ form.form-example {
     align-items: center;
     padding-top: 25rem;
     padding-bottom: 30rem;
-    /* padding-left: 15rem; */
-    /* text-align: left; */
 }
 div h1 span {
     color: #7eb3ca;
