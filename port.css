@@ -158,4 +158,7 @@ div h1 span {
         align-items: center;
         justify-content: center;
     }
+    .contain2{
+    margin-right: 2rem;
+    }
 }
