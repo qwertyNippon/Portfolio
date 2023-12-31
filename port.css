@@ -63,8 +63,8 @@ div h1 span {
 .divide{
     text-align: center;
     margin-top: 8rem;
-    margin-right: 5rem;
-    margin-left: 5rem;
+    margin-right: 2rem;
+    margin-left: 2rem;
 }
 
 .text{
@@ -148,6 +148,8 @@ div h1 span {
 
 @media (max-width:800px) {
     .phone{
-        max-width: 80vw; 
+        max-width: 90vw; 
+        align-items: center;
+        justify-content: space-evenly;
     }
 }
