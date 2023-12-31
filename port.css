@@ -46,7 +46,6 @@ div h1 span {
     border-radius: .5rem;
     margin-bottom: .2rem;
 }
-
 .contain1{
     display: flex;
     flex-direction: column;
@@ -62,7 +61,7 @@ div h1 span {
     align-items: center;
     margin-top: 5rem;
     margin-bottom: 5rem;
-    padding-bottom: 25rem;
+    padding-bottom: 25rem;    
 }
 .contain3{
     display: flex;
@@ -126,34 +125,10 @@ div h1 span {
 
 .contact button a{
     text-decoration: none;
-    
 }
 
-
-
-@media (max-width: 1200px) {
-    /* … */
-
-    .test1{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-  }
-@media (max-width: 1025px) {
-    /* … */
-
-    .test2{
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-
-  }
-
-
-
+@media (max-width: 1200px) {}
+@media (max-width: 1025px) {}
 @media (max-width:800px) {
     .phone{
         display: flex;
@@ -166,10 +141,9 @@ div h1 span {
     .picBord{
         display: flex;
         flex-direction: column;
-        align-items: center;
         max-width: 90vw; 
-        align-items: center;
-        justify-content: center;
+        /* align-items: center; */
+        /* justify-content: center; */
     }
     .firstMes{
         display: flex;
