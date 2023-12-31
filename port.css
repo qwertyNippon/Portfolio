@@ -43,6 +43,7 @@ div h1 span {
 .contain1{
     display: flex;
     flex-direction: column;
+    align-items: center;
     margin-top: 2rem;
     margin-bottom: 5rem;
     padding-top: 2.5rem;
@@ -51,6 +52,7 @@ div h1 span {
 .contain2{
     display: flex;
     flex-direction: column;
+    align-items: center;
     margin-top: 5rem;
     margin-bottom: 5rem;
     padding-bottom: 25rem;
@@ -58,6 +60,7 @@ div h1 span {
 .contain3{
     display: flex;
     flex-direction: column;
+    align-items: center;
     margin-top: 5rem;
     margin-bottom: 8rem;
 }
@@ -150,16 +153,25 @@ div h1 span {
 
 @media (max-width:800px) {
     .phone{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         max-width: 90vw; 
         align-items: center;
         justify-content: center;
     }
     .picBord{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         max-width: 90vw; 
         align-items: center;
         justify-content: center;
     }
     .firstMes{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         max-width: 90vw; 
         align-items: center;
         justify-content: center;
