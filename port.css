@@ -17,8 +17,8 @@ form.form-example {
     align-items: center;
     padding-top: 25rem;
     padding-bottom: 30rem;
-    padding-left: 15rem;
-    text-align: left;
+    /* padding-left: 15rem; */
+    /* text-align: left; */
 }
 div h1 span {
     color: #7eb3ca;
@@ -128,11 +128,7 @@ div h1 span {
     
 }
 
-/* .test1{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-} */
+
 
 @media (max-width: 1200px) {
     /* … */
