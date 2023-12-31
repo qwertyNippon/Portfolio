@@ -122,21 +122,21 @@ div h1 span {
 @media (max-width: 1200px) {
     /* … */
 
-    /* .test1{
+    .test1{
         display: flex;
         flex-direction: column;
         align-items: center;
-    } */
+    }
 
   }
 @media (max-width: 1025px) {
     /* … */
 
-    /* .test2{
+    .test2{
         display: flex;
         flex-direction: column;
         align-items: center;
-    } */
+    }
 
   }
 
@@ -157,8 +157,5 @@ div h1 span {
         max-width: 90vw; 
         align-items: center;
         justify-content: center;
-    }
-    .contain2{
-    margin-right: 2rem;
     }
 }
