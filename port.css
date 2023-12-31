@@ -153,12 +153,12 @@ div h1 span {
 
 @media (max-width:800px) {
     .phone{
-        max-width: 80vw; 
+        max-width: 90vw; 
         align-items: center;
         justify-content: center;
     }
     .picBord{
-        max-width: 80vw; 
+        max-width: 90vw; 
         align-items: center;
         justify-content: center;
     }
