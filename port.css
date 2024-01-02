@@ -131,7 +131,11 @@ div h1 span {
     margin: 8px;
 }
 
-.textDec{
+.textDec a{
+    list-style: none;
+    text-decoration: none;
+}
+.textDec {
     list-style: none;
     text-decoration: none;
 }
